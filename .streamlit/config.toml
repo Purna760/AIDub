@@ -1,0 +1,6 @@
+# .streamlit/config.toml
+[global]
+# This instructs Streamlit Cloud to use the apt-get package list
+# specified in the optional packages.txt file (used here to ensure
+# that Streamlit Cloud will install system packages).
+install_system_packages = true
