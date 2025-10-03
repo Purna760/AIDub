@@ -1,0 +1,8 @@
+streamlit
+faster-whisper
+ffmpeg-python
+translate
+gTTS
+pysrt
+pydub
+moviepy
