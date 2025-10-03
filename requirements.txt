@@ -4,6 +4,7 @@ ffmpeg-python
 translate
 gTTS
 pysrt
-pydub==0.25.1  # Pin to a stable version
+pydub
 moviepy
-av==11.0.0     # Pin PyAV to a stable version
+av==11.0.0
+audioop-lts  <-- THE CRITICAL FIX
