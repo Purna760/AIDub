@@ -6,4 +6,3 @@ gTTS
 pysrt
 pydub
 moviepy
-pyav
