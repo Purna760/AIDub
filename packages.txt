@@ -1,1 +1,2 @@
 ffmpeg
+portaudio19-dev  <-- ADD THIS LINE (use -dev for build environment)
