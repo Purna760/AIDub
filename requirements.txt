@@ -6,4 +6,4 @@ gTTS
 pysrt
 pydub
 moviepy
-pyav
+pyav==11.0.0
